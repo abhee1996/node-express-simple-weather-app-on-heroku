@@ -1,1 +1,1 @@
-https://nodejs-expressjs-webapp.herokuapp.com
+https://nodejs-expressjs-webapp.herokuapp.com/weather
